@@ -1,4 +1,4 @@
-# bubble-buster
+# Bubble Buster
 
 This game was created as a project to demonstrate to students how to utilize Python to create something they can use for fun.
 
